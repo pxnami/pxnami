@@ -1,61 +1,63 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,55:e63946,100:f4a261&height=210&section=header&text=devkira&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20developer%20%E2%80%A2%20Making%20the%20web%20prettier&descAlignY=58&descSize=17" alt="devkira banner" width="100%" />
+  <h1>pxnami</h1>
   <p>
-    <strong>21-year-old frontend developer & design tinkerer</strong><br />
-    I turn rough ideas into interfaces people enjoy using.
+    16-year-old self-taught software engineer.<br />
+    I build projects independently and learn by shipping.
   </p>
 
-  <a href="https://github.com/devkira/pastel-ui"><img src="https://img.shields.io/badge/Pastel%20UI-Open%20source%20component%20kit-e63946?style=for-the-badge&logo=react&logoColor=white" alt="Pastel UI" /></a>
-  <img src="https://img.shields.io/badge/Working%20style-Design%20first-f4a261?style=for-the-badge" alt="Design first" />
+  <a href="https://github.com/pxnami/greenchess"><img src="https://img.shields.io/badge/Greenchess-Free%20%26%20open--source-7c3aed?style=for-the-badge&logo=chessdotcom&logoColor=white" alt="Greenchess" /></a>
+  <img src="https://img.shields.io/badge/Working%20style-Independent%20builder-06b6d4?style=for-the-badge" alt="Independent builder" />
 
   <br /><br />
 
-  <a href="mailto:hello.devkira@gmail.com"><img src="https://img.shields.io/badge/Email-hello.devkira%40gmail.com-1a1a2e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:contact.pxnami@gmail.com"><img src="https://img.shields.io/badge/Email-contact.pxnami%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
-## 👋 About me
+<br />
 
-I'm a frontend developer who cares more about how things feel than how they're built underneath. Most of my projects start as a Figma sketch that I get impatient with and turn into real code. I like clean UI, small delightful details, and making free tools that don't feel like afterthoughts.
+## about me
 
-## 🧰 Skills
+16-year-old self-taught software engineer. I build most of my projects from the ground up, on my own, and learn primarily by shipping things rather than studying theory first. I'm the founder of two independent projects: DoNext, a focused to-do list app, and Greenchess, a free and open-source chess platform. I care about clean, usable software that's free for real people to use — not portfolio filler.
+
+## core skills
 
 <table>
 <tr>
 <td valign="top" width="65%">
 <strong>I build with</strong><br /><br />
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" alt="HTML, CSS, JS, React, Tailwind" />
-<br /><sub>HTML · CSS · JavaScript · React · Tailwind</sub>
+<img src="https://skillicons.dev/icons?i=html,css,java&theme=dark" alt="HTML, CSS, and Java" />
+<br /><sub>HTML (full) · CSS (full) · Java (beginner)</sub>
 </td>
 <td valign="top" width="35%">
 <strong>Currently learning</strong><br /><br />
-<img src="https://skillicons.dev/icons?i=figma,threejs&theme=dark" alt="Figma, Three.js" />
-<br /><sub>Advanced Figma · Three.js</sub>
+<img src="https://skillicons.dev/icons?i=lua,figma&theme=dark" alt="Lua and Figma" />
+<br /><sub>Lua · UI design in Figma</sub>
 </td>
 </tr>
 </table>
 
-## ✨ Featured projects
+## featured projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>🎨 <a href="https://github.com/devkira/pastel-ui">Pastel UI</a></h3>
-<strong>Open-source component kit</strong><br /><br />
-A soft, pastel-themed React component library built for hobby projects and portfolios that want personality without heavy setup.
+<h3><a href="https://github.com/pxnami/greenchess">Greenchess</a></h3>
+<strong>Free & open-source chess</strong><br /><br />
+A player-first chess platform inspired by the usability of chess.com, built to be free, open-source, and independently developed.
 </td>
 <td width="50%" valign="top">
-<h3>📓 Notewell</h3>
-<strong>A minimalist note-taking app</strong><br /><br />
-A distraction-free writing space with zero clutter, built to make jotting things down feel calm instead of chaotic.
+<h3>DoNext</h3>
+<strong>A focused to-do list app</strong><br /><br />
+A clean app for turning plans into completed tasks — built as an independent project, founded and developed solo.
 </td>
 </tr>
 </table>
 
-## 🚀 How I work
+## how i work
 
-- 🎨 I start from design, not code — the interface comes first.
-- 🌱 I'm learning Three.js to bring motion and depth into my UI work.
-- 💡 I care about accessible, good-looking, free software.
+- I build independently, from the first idea through the finished product.
+- I'm learning Lua and picking up UI/UX design in Figma to design my own interfaces before coding them.
+- I care about simple experiences, useful software, and open-source work.
 
 <div align="center">
   <sub>Thanks for visiting my profile.</sub>
