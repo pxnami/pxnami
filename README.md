@@ -8,13 +8,17 @@
 
   <a href="https://github.com/pxnami/greenchess"><img src="https://img.shields.io/badge/Greenchess-Free%20%26%20open--source-7c3aed?style=for-the-badge&logo=chessdotcom&logoColor=white" alt="Greenchess" /></a>
   <img src="https://img.shields.io/badge/Working%20style-Independent%20builder-06b6d4?style=for-the-badge" alt="Independent builder" />
+
+  <br /><br />
+
+  <a href="mailto:contact.pxnami@gmail.com"><img src="https://img.shields.io/badge/Email-contact.pxnami%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 ---
 
 ## 👋 About me
 
-I’m a self-taught software engineer who builds most projects from the ground up. I enjoy turning ideas into useful, polished software—especially projects that are free, open-source, and made for real people to use.
+I'm a self-taught software engineer who builds most projects from the ground up. I enjoy turning ideas into useful, polished software—especially projects that are free, open-source, and made for real people to use.
 
 ## 🧰 Skills
 
@@ -53,7 +57,7 @@ I’m a self-taught software engineer who builds most projects from the ground u
 ## 🚀 How I work
 
 - 🛠️ I build independently, from the first idea through the finished product.
-- 🌱 I’m learning Lua and improving by making real projects.
+- 🌱 I'm learning Lua and improving by making real projects.
 - 💡 I care about simple experiences, useful software, and open-source work.
 
 <div align="center">
