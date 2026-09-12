@@ -17,7 +17,7 @@
 
 ## about me
 
-16-year-old self-taught software engineer. I build most of my projects from the ground up, on my own, and learn primarily by shipping things rather than studying theory first. I'm the founder of two independent projects: DoNext, a focused to-do list app, and Greenchess, a free and open-source chess platform. I care about clean, usable software that's free for real people to use — not portfolio filler.
+16-year-old self-taught software engineer. I build most of my projects from the ground up, on my own, and learn primarily by shipping things rather than studying theory first. I'm the founder of two independent projects: DoNext, a focused to-do list app, and Greenchess, a free and open-source chess platform. I care about clean, usable software that's free for real people to use.
 
 ## core skills
 
