@@ -1,7 +1,7 @@
 <div align="center">
   <h1>pxnami</h1>
   <p>
-    16-year-old self-taught software engineer.<br />
+    16yo self-taught software engineer.<br />
     I build projects independently and learn by shipping.
   </p>
 
