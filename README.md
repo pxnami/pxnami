@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="pxnamibanner.png" alt="pxnami banner" width="100%" />
+
   <h1>pxnami</h1>
   <p>
     16yo self-taught software engineer.<br />
