@@ -1,25 +1,14 @@
 <div align="center">
   <img src="pxnamibanner.png" alt="pxnami banner" width="100%" />
-
-  <h1>pxnami</h1>
-  <p>
-    16yo self-taught software engineer.<br />
-    I build projects independently and learn by shipping.
-  </p>
-
-  <a href="https://github.com/pxnami/greenchess"><img src="https://img.shields.io/badge/Greenchess-Free%20%26%20open--source-7c3aed?style=for-the-badge&logo=chessdotcom&logoColor=white" alt="Greenchess" /></a>
-  <img src="https://img.shields.io/badge/Working%20style-Independent%20builder-06b6d4?style=for-the-badge" alt="Independent builder" />
-
-  <br /><br />
-
-  <a href="mailto:contact.pxnami@gmail.com"><img src="https://img.shields.io/badge/Email-contact.pxnami%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 <br />
 
-## about me
+## about
 
 16-year-old self-taught software engineer. I build most of my projects from the ground up, on my own, and learn primarily by shipping things rather than studying theory first. I'm the founder of two independent projects: DoNext, a focused to-do list app, and Greenchess, a free and open-source chess platform. I care about clean, usable software that's free for real people to use.
+
+📧 contact.pxnami@gmail.com
 
 ## core skills
 
