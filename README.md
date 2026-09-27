@@ -42,6 +42,14 @@ A player-first chess platform inspired by the usability of chess.com, built to b
 A clean app for turning plans into completed tasks — built as an independent project, founded and developed solo.
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+<h3><a href="https://github.com/pxnami/Notability-Tracker">Notability Tracker</a></h3>
+<strong>A source-backed Notability tracker</strong><br /><br />
+An independent tracker for Notability bugs, documented fixes, feature requests, and development updates, with links to original sources.<br /><br />
+<a href="https://github.com/pxnami/Notability-Tracker">Repository</a> · <a href="https://pxnami.github.io/Notability-Tracker/">Live website</a>
+</td>
+</tr>
 </table>
 
 ## how i work
