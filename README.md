@@ -61,11 +61,3 @@ An independent tracker for Notability bugs, documented fixes, feature requests, 
 <div align="center">
   <sub>Thanks for visiting my profile.</sub>
 </div>
-
-<!-- notability-tracker:start -->
-## Notability Tracker
-
-An independent tracker for Notability bugs, documented fixes, feature requests, and development updates, with links to original sources.
-
-[Repository](https://github.com/pxnami/Notability-Tracker) · [Live website](https://pxnami.github.io/Notability-Tracker/)
-<!-- notability-tracker:end -->
