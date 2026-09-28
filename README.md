@@ -32,9 +32,10 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/pxnami/greenchess">Greenchess</a></h3>
+<h3><a href="https://github.com/pxnami/GreenChess">GreenChess</a></h3>
 <strong>Free & open-source chess</strong><br /><br />
-A player-first chess platform inspired by the usability of chess.com, built to be free, open-source, and independently developed.
+A player-first chess practice platform inspired by the usability of chess.com, built to be free, open-source, and independently developed.<br /><br />
+<a href="https://github.com/pxnami/GreenChess">Repository</a> · <a href="https://pxnami.github.io/GreenChess/">Live website</a>
 </td>
 <td width="50%" valign="top">
 <h3>DoNext</h3>
