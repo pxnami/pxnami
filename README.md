@@ -14,15 +14,20 @@
 
 <table>
 <tr>
-<td valign="top" width="65%">
-<strong>I build with</strong><br /><br />
-<img src="https://skillicons.dev/icons?i=html,css,java&theme=dark" alt="HTML, CSS, and Java" />
-<br /><sub>HTML (full) · CSS (full) · Java (beginner)</sub>
+<td valign="top" width="46%">
+<strong>Core languages</strong><br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,cs&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, and C sharp" />
+<br /><sub>HTML · CSS · JavaScript · TypeScript · C#</sub>
 </td>
-<td valign="top" width="35%">
+<td valign="top" width="28%">
+<strong>Additional experience</strong><br /><br />
+<img src="https://skillicons.dev/icons?i=postgres,powershell,bash&theme=dark" alt="PostgreSQL, PowerShell, and Bash" />
+<br /><sub>SQL/PostgreSQL · PowerShell · Bash</sub>
+</td>
+<td valign="top" width="26%">
 <strong>Currently learning</strong><br /><br />
-<img src="https://skillicons.dev/icons?i=lua,figma&theme=dark" alt="Lua and Figma" />
-<br /><sub>Lua · UI design in Figma</sub>
+<img src="https://skillicons.dev/icons?i=lua,java,figma&theme=dark" alt="Lua, Java, and Figma" />
+<br /><sub>Lua · Java · UI design in Figma</sub>
 </td>
 </tr>
 </table>
