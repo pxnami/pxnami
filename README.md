@@ -6,7 +6,7 @@
 
 ## about
 
-16-year-old self-taught software engineer. I build most of my projects from the ground up, on my own, and learn primarily by shipping things rather than studying theory first. I'm the founder of two independent projects: DoNext, a focused to-do list app, and Greenchess, a free and open-source chess platform. I care about clean, usable software that's free for real people to use.
+16-year-old self-taught software engineer. I build most of my projects from the ground up, on my own, and learn primarily by shipping things rather than studying theory first. I'm the founder of four independent projects: DoNext, GreenChess, Notability Tracker, and Revora. I care about clean, usable software that's free for real people to use.
 
 📧 contact.pxnami@gmail.com · 🌐 [pxnami.github.io](https://pxnami.github.io/)
 
@@ -44,11 +44,17 @@ A clean app for turning plans into completed tasks — built as an independent p
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 <h3><a href="https://github.com/pxnami/Notability-Tracker">Notability Tracker</a></h3>
 <strong>A source-backed Notability tracker</strong><br /><br />
 An independent tracker for Notability bugs, documented fixes, feature requests, and development updates, with links to original sources.<br /><br />
 <a href="https://github.com/pxnami/Notability-Tracker">Repository</a> · <a href="https://pxnami.github.io/Notability-Tracker/">Live website</a>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/pxnami/Revora">Revora</a></h3>
+<strong>iPhone and iPad recovery utility</strong><br /><br />
+A Windows desktop utility for recovery mode, device information, and compatible IPSW firmware installs. Currently in early development.<br /><br />
+<a href="https://github.com/pxnami/Revora">Repository</a>
 </td>
 </tr>
 </table>
