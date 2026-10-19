@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="pxnamibanner.gif" alt="pxnami banner" width="100%" />
+  <img src="wireshark.gif" alt="pxnami banner" width="100%" />
 </div>
 
 <br />
