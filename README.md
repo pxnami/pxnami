@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="pxnamibanner.png" alt="pxnami banner" width="100%" />
+  <img src="pxnamibanner.gif" alt="pxnami banner" width="100%" />
 </div>
 
 <br />
